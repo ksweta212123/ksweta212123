@@ -18,7 +18,10 @@ AWS (EC2, S3, IAM, Cognito, Cost Explorer)
 Git • GitHub • Postman • VS Code  
 
 📊 GitHub Stats
-📈 GitHub profile highlights projects, coding practice, and continuous learning  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shyambarua&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shyambarua&theme=tokyonight)
+
 
 🚀 Featured Projects
 🏦 **Online Banking Management System**  
