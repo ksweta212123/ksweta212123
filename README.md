@@ -17,10 +17,9 @@ MongoDB • MySQL
 AWS (EC2, S3, IAM, Cognito, Cost Explorer)  
 Git • GitHub • Postman • VS Code  
 
-📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shyambarua&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksweta212123&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shyambarua&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ksweta212123&theme=tokyonight)
 
 
 🚀 Featured Projects
@@ -39,9 +38,5 @@ Git • GitHub • Postman • VS Code
 ✅ Cloud fundamentals with AWS  
 ✅ Software Engineering best practices & system design basics  
 
-📬 Connect with Me
-🔗 Portfolio  
-🔗 LinkedIn  
-🔗 GitHub  
 
 🎯 "Learn continuously. Build with purpose. Grow as an engineer." 🚀
